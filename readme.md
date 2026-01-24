@@ -16,6 +16,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [Deep Learning](#deep-learning)
 - [Discrete math](#discrete-math)
 - [Functional programming](#functional-programming)
+- [Physics](#physics)
 - [Game development](#game-development)
 - [Haskell](#haskell)
 - [Investing](#investing)
@@ -112,7 +113,6 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 
 ## Deep Learning
 
-- [Advanced Deep Learning & Reinforcement Learning (2018)](https://www.youtube.com/playlist?list=PLqYmG7hTraZDNJre23vqCGIVpfZ_K2RZs) 🆓
 - [Berkeley deep reinforcement learning (2017)](http://rll.berkeley.edu/deeprlcourse/) 🆓
 - [Deep learning (2017)](http://deeplearning.cs.cmu.edu/) 🆓
 - [Stanford natural language processing with deep learning (2017)](https://www.youtube.com/watch?v=OQQ-W_63UgQ&list=PL3FW7Lu3i5Jsnh1rnUwq_TcylNr7EkRe6) 🆓
@@ -218,6 +218,11 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [Structure and interpretation of computer programs (in Python) (2017)](https://cs61a.org/) 🆓
 - [Unix tools and scripting (2014)](http://www.cs.cornell.edu/courses/cs2043/2014sp/) 🆓
 - [Composing Programs](https://composingprograms.com/) - Free online introduction to programming and computer science.
+
+
+## Physics
+
+- [Practical guide to physics olympiads](https://physolymp.com) 💰
 
 ## React
 
