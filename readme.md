@@ -79,6 +79,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [Computer science 101](https://lagunita.stanford.edu/courses/Engineering/CS101/Summer2014/about) 🆓
 - [Data structures](https://www.coursera.org/learn/data-structures) 💰
 - [Great ideas in computer architecture (2015)](http://www-inst.eecs.berkeley.edu/%7Ecs61c/sp15/) 🆓
+- [CPU Tutorial (2024)](https://milen-patel.github.io/cpu_tutorial/) 🆓
 - [Information retrieval (2013)](http://www.cs.cornell.edu/courses/cs4300/2013fa/) 🆓
 - [MIT great ideas in theoretical computer science](https://stellar.mit.edu/S/course/6/sp15/6.045/materials.html) 🆓
 - [MIT Mathematics for Computer Science (2010)](https://www.youtube.com/playlist?list=PLB7540DEDD482705B) 🆓
